@@ -9,7 +9,7 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuspetris&theme=_icons=true)](https://github.com/mateuspetris/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuspetris&theme=dark&show_icons=true)](https://github.com/mateuspetris/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuspetris&layout=compact&theme=dark&show)](https://github.com/mateuspetris/github-readme-stats)
 
 ##
