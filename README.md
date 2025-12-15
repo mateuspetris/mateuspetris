@@ -9,7 +9,7 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuspetris&theme=dark&show_icons=true)](https://github.com/mateuspetris/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuspetris&theme=_icons=true)](https://github.com/mateuspetris/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuspetris&layout=compact&theme=dark&show)](https://github.com/mateuspetris/github-readme-stats)
 
 ##
@@ -17,7 +17,7 @@
 <h3 align="left">My Stack</h3>
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="Petris-img" height="150" width="300" src="https://i.pinimg.com/originals/9e/b5/5b/9eb55b48e169e14395febba47a5cf1af.gif">
+  <img align="right" alt="Petris-img" height="150" width="300" src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif">
   <img align="center" alt="Petris-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Petris-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Petris-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
