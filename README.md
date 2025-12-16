@@ -8,9 +8,10 @@
 <p align="Center"> Estudante de Sistemas de informação na FAESA faculdade do ES. Atualmente estou focado em aprender e desenvolver Java e paralelamente me aprofundando em dados e Python. Desde pequeno fui apaixonado por tecnologia e foi essa paixão que me trouxe para a programação.
 
 ##
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuspetris&theme=dark&show_icons=true)](https://github.com/mateuspetris/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuspetris&layout=compact&theme=dark&show)](https://github.com/mateuspetris/github-readme-stats)
+<div align="center"> 
+  <img width="400px" height="400px" src="https://github-readme-stats.vercel.app/api?username=mateuspetris&show_icons=true&include_all_commits=false&hide_border=true&title_color=F9F8F8&icon_color=F9F8F8&text_color=F9F8F8&bg_color=0d1117" alt="Otavio github stats" /> 
+  <img width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuspetris&layout=compact&exclude_repo=cursoLLM,Restaurante,botIg,projetonodejs,Cadastro_Ussuario,Pasta_de_Projetos_de_Pratica,Ideias-Site&hide_border=true&title_color=F9F8F8&text_color=FFF&bg_color=0d1117" alt="MostUsedLanguages"/>
+</div>
 
 ##
 
