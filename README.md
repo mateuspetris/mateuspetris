@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=INTER&weight=900&size=32&pause=1000&color=FFFFFF&background=E6FFE000&center=true&width=435&lines=WELCOME+TO+MY+PROFILE+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=INTER&weight=900&size=31&pause=1000&color=FFFFFF&background=E6FFE000&center=true&width=435&lines=WELCOME+TO+MY+PROFILE+%3A)" alt="Typing SVG" /></a>
 </div>
 
 <p align="Center"> Estudante de Sistemas de informação na FAESA faculdade do ES. Atualmente estou focado em aprender e desenvolver Java e paralelamente me aprofundando em dados e Python. Desde pequeno fui apaixonado por tecnologia e foi essa paixão que me trouxe para a programação.
