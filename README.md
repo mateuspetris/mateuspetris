@@ -9,7 +9,8 @@
 
 ##
 <div align="center"> 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mateuspetris&theme=dark&hide_border=true&border_radius=4.8" alt="GitHub Streak" /></a>
+<img width="400px" height="400px" src="https://github-readme-stats.vercel.app/api?username=mateuspetris&show_icons=true&include_all_commits=false&hide_border=true&title_color=F9F8F8&icon_color=F9F8F8&text_color=F9F8F8&bg_color=0d1117" alt="Mateus github stats" /> 
+  <img width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuspetris&layout=compact&hide_border=true&title_color=F9F8F8&text_color=FFF&bg_color=0d1117" alt="MostUsedLanguages"/>
 </div>
 
 ##
