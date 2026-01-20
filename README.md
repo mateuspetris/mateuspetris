@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <b>Jesus is alive</b>
+  <b>dev java☕</b>
   <samp>
       <br>
       Hi there! I'm <b>Mateus Petris</b>
