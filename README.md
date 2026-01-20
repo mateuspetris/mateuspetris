@@ -16,10 +16,11 @@
 
 ## My Stack
 
-### 💻 Languages
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div>
+  ### 💻 Languages
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+</div>
+          
 
 ### 🚀 Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
