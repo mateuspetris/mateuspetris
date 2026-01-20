@@ -15,8 +15,10 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A292A&width=435&lines=Welcome+my+profile;I'm+student+information+system" alt="Typing SVG" >
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=289A5F&width=900&center=true&vCenter=true&lines=Welcome+my+profile;I'm+student+information+system;I'm+from+brazil;I'm+dev+Java" alt="Typing SVG" />
+  </a>
 </div>
 <br>
 
