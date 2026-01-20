@@ -1,59 +1,97 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=header" alt="top"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black-gradient&customColorList=23&section=header"/>
 
+<br>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=INTER&weight=900&size=31&pause=1000&color=FFFFFF&background=E6FFE000&center=true&width=435&lines=WELCOME+TO+MY+PROFILE+%3A)" alt="Typing SVG" /></a>
+  <img align="center" height="150" src="https://i.imgur.com/I0MLA47.png"/>
 </div>
 
-<p align="Center"> Estudante de Sistemas de informação na FAESA faculdade do ES. Atualmente estou focado em aprender e desenvolver Java e paralelamente me aprofundando em dados e Python. Desde pequeno fui apaixonado por tecnologia e foi essa paixão que me trouxe para a programação.
-
-##
-<div align="center"> 
-<img width="400px" height="400px" src="https://github-readme-stats.vercel.app/api?username=mateuspetris&show_icons=true&include_all_commits=false&hide_border=true&title_color=F9F8F8&icon_color=F9F8F8&text_color=F9F8F8&bg_color=0d1117" alt="Mateus github stats" /> 
-  <img width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuspetris&layout=compact&hide_border=true&title_color=F9F8F8&text_color=FFF&bg_color=0d1117" alt="MostUsedLanguages"/>
+<div align="center">
+  
+  <b>Jesus is alive</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Mateus Petris</b>
+  </samp>
 </div>
 
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A292A&width=435&lines=Welcome+my+profile;I'm+student+information+system" alt="Typing SVG" >
+</div>
+<br>
 
-## My Stack
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mateuspetris&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=000000">
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuspetris&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=000000">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateuspetris&theme=dark"/>
+</div>
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60"/>
-</p>
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg">
 
-### 🚀 Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
-</p>
+  
+</div>
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="NoSQL" width="60" height="60"/>
-</p>
+<br>
+<br>
 
-### 🛠️ Tools & Version Control
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="GitHub" width="60" height="60"/>
-</p>
-
-<h3 align="left">Connect with me!</h3>
-
-
-<div>
-<a href="https://br.linkedin.com/in/mateuspetris" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/petrissz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div> 
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
 ##
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateuspetris/mateuspetris/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateuspetris/mateuspetris/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateuspetris/mateuspetris/output/github-contribution-grid-snake.svg">
-</picture>
+<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer" alt="bottom"/>
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mateuspetris@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/petrissz/?next=%2F)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mateuspetris/)
+  
+</div>
+
+<div align="center">
+  <p align="center">
+      <samp>
+      </samp>
+  </p>
+</div>
+<br>
+
+</details>
+
+##
+
+<br>
+
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black-gradient&customColorList=23&section=footer"/>
