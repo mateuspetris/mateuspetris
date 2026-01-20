@@ -55,4 +55,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateuspetris/mateuspetris/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=020517&section=footer" alt="bottom"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer" alt="bottom"/>
