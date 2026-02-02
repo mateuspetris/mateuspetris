@@ -27,8 +27,8 @@
 <br>
       
 <div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mateuspetris&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=000000">
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuspetris&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=000000">
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateuspetris&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=000000">
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateuspetris&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=000000">
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateuspetris&theme=dark"/>
