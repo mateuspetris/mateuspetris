@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <b>dev java☕</b>
+  <b>software developer☕</b>
   <samp>
       <br>
       Hi there! I'm <b>Mateus Petris</b>
