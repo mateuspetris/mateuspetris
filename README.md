@@ -31,7 +31,7 @@
   <img height="180" align="center" alt="Top Language" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateuspetris&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=000000">
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateuspetris&theme=dark"/>
+  <img align="center" alt="Card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateuspetris&theme=dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
