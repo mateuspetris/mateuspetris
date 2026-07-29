@@ -25,21 +25,14 @@
       
 <br>
 <br>
-      
-<div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateuspetris&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=000000">
-  <br>
-  <br>
-</div>
 
 <div align="center" style="display: inline_block"><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,spring,nodejs,react,mysql,mongodb,docker" />
+    <img src="https://skillicons.dev/icons?i=java,python,spring,react,mysql,mongodb,docker" />
   </a>
 </p>
 
-  
 </div>
 
 <br>
@@ -67,27 +60,9 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mateuspetris@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/petrissz/?next=%2F)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mateuspetris/)
   
 </div>
 
-<div align="center">
-  <p align="center">
-      <samp>
-      </samp>
-  </p>
-</div>
-<br>
 
-</details>
-
-##
-
-<br>
-
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black-gradient&customColorList=23&section=footer"/>
